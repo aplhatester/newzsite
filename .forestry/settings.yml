@@ -10,8 +10,8 @@ sections:
   create: all
   match: "*"
   new_doc_ext: md
-upload_dir: assets
-public_path: "/docs/_assets"
+upload_dir: docs/_assets
+public_path: https://raw.githubusercontent.com/aplhatester/newzsite/main/docs/_assets
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
