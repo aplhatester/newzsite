@@ -1,0 +1,10 @@
+---
+label: hi
+hide_body: false
+fields:
+- type: number
+  name: pub
+  label: pub
+- type: text
+  name: title
+  label: title
