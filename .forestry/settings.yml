@@ -9,7 +9,7 @@ sections:
   label: pages
   create: all
   match: "*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 upload_dir: docs/_assets
 public_path: https://raw.githubusercontent.com/aplhatester/newzsite/main/docs/_assets
 front_matter_path: ''
