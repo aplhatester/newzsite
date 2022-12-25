@@ -1,4 +1,23 @@
 ---
 label: helo
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: title
+- name: pub
+  type: number
+  label: pub
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
