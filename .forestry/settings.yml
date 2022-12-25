@@ -8,8 +8,8 @@ sections:
   path: docs/_pages
   label: pages
   create: all
-  match: "/*"
-  new_doc_ext: ".md"
+  match: "*"
+  new_doc_ext: md
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
