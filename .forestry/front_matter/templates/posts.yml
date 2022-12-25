@@ -20,3 +20,5 @@ fields:
   type: tag_list
   default: []
   label: category
+pages:
+- docs/_pages/first-post.md
