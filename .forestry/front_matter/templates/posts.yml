@@ -1,4 +1,22 @@
 ---
 label: posts
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: published_on
+  type: datetime
+  label: published_on
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: category
+  type: tag_list
+  default: []
+  label: category
