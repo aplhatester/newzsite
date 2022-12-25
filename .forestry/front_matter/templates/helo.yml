@@ -21,3 +21,5 @@ fields:
     min: 
     max: 
     step: 
+pages:
+- docs/_pages/hiii.md
