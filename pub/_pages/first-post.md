@@ -10,6 +10,8 @@ published_on: 2022-12-01T18:30:00Z
 
 {{ title }}
 
+{{ published_on }}
+
 ![cowpic](https://raw.githubusercontent.com/aplhatester/newzsite/main/pub/_assets/pexcow.jpg)
 
 _hello_
@@ -17,9 +19,9 @@ _hello_
 * item 1
 * item 2
 
-    wow(){
-    	codesAlsoWorks;
-    }
+  wow(){
+  codesAlsoWorks;
+  }
 
 > that's it
 
