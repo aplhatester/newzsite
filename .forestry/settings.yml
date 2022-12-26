@@ -5,11 +5,11 @@ admin_path: "/pub/_cfg"
 webhook_url: 
 sections:
 - type: directory
-  path: docs/_pages
+  path: pub/_pages
   label: pages
   create: all
   match: "*"
-  new_doc_ext: html
+  new_doc_ext: ".md"
 upload_dir: docs/_assets
 public_path: https://raw.githubusercontent.com/aplhatester/newzsite/main/docs/_assets
 front_matter_path: ''
