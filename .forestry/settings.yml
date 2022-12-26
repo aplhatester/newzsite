@@ -1,7 +1,7 @@
 ---
 new_page_extension: html
 auto_deploy: false
-admin_path: "/docs/_cfg"
+admin_path: "/pub/_cfg"
 webhook_url: 
 sections:
 - type: directory
